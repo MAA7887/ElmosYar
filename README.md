@@ -1,4 +1,4 @@
-[readme_yar_e_elmos_professor_recommendation_analytics.md](https://github.com/user-attachments/files/25043418/readme_yar_e_elmos_professor_recommendation_analytics.md)
+
 # Yar-e Elmos 🎓
 **Professor Analytics & Recommendation System for Students**
 
