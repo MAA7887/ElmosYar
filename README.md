@@ -61,7 +61,7 @@ project/
 
 ## 🧹 Data Preprocessing
 
-- Persian/Arabic character normalization (ی/ي، ک/ك)
+- Persian/Arabic character normalization
 - Emoji and noise removal
 - Course name standardization
 - Professor name unification using **RapidFuzz** (fuzzy matching)
